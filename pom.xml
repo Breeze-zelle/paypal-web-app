@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.167.66.7:8888/repository/boa-releases/</url>
+	      <url>http://54.167.66.7:8888/repository/paypal-webapp_releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.167.66.7:8888/repository/boa-snapshot/</url>
+	      <url>http://54.167.66.7:8888/repository/Paypal-webapp_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
